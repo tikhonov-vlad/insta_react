@@ -8,5 +8,5 @@ export default function Feed() {
       <Posts/>
       <Users/>
     </div>
-  )
+  );
 }

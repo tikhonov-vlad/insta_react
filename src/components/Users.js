@@ -30,7 +30,6 @@ export default function Users() {
           name="Harry_the_prince"
           min/>  
       </div>
-
     </div>
-  )
+  );
 }
